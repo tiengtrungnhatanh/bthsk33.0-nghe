@@ -1,0 +1,1802 @@
+[
+  {
+    "lesson": 1,
+    "question": 1,
+    "format": 1,
+    "source": "1-3.mp3",
+    "start": 7.855,
+    "end": 13.196,
+    "transcript": "是一个黑色的箱子，上面写着我的名字和电话号码。",
+    "answer": "A"
+  },
+  {
+    "lesson": 1,
+    "question": 2,
+    "format": 1,
+    "source": "1-5.mp3",
+    "start": 22.859,
+    "end": 26.51,
+    "transcript": "那个穿着黑衣服的短头发的年轻人？",
+    "answer": "C"
+  },
+  {
+    "lesson": 1,
+    "question": 3,
+    "format": 2,
+    "source": "1-3.mp3",
+    "start": 5.024,
+    "end": 7.091,
+    "transcript": "你的行李箱是什么样的？",
+    "answer": "A"
+  },
+  {
+    "lesson": 1,
+    "question": 4,
+    "format": 2,
+    "source": "1-3.mp3",
+    "start": 0.536,
+    "end": 4.219,
+    "transcript": "我的行李怎么还没出来？是不是丢了？",
+    "answer": "B"
+  },
+  {
+    "lesson": 1,
+    "question": 5,
+    "format": 3,
+    "source": "1-5.mp3",
+    "start": 6.264,
+    "end": 9.288,
+    "transcript": "没有，他们应该快出来了。",
+    "answer": "C"
+  },
+  {
+    "lesson": 1,
+    "question": 6,
+    "format": 3,
+    "source": "1-3.mp3",
+    "start": 5.024,
+    "end": 7.091,
+    "transcript": "你的行李箱是什么样的？",
+    "answer": "B"
+  },
+  {
+    "lesson": 1,
+    "question": 7,
+    "format": 4,
+    "source": "1-5.mp3",
+    "start": 10.573,
+    "end": 14.813,
+    "transcript": "我们站到中间去吧，这样他们好找一些。",
+    "answer": "B"
+  },
+  {
+    "lesson": 1,
+    "question": 8,
+    "format": 4,
+    "source": "1-3.mp3",
+    "start": 25.558,
+    "end": 30.218,
+    "transcript": "别着急，我们拿着护照和机票，去服务台问问吧。",
+    "answer": "C"
+  },
+  {
+    "lesson": 1,
+    "question": 9,
+    "format": 5,
+    "source": "1-3.mp3",
+    "start": 0,
+    "end": 30.866,
+    "transcript": "我的行李怎么还没出来？是不是丢了？\n你的行李箱是什么样的？\n是一个黑色的箱子，上面写着我的名字和电话号码。\n我好像在哪儿看到过这个箱子，是不是有人拿错了？\n我们快找谁问一下吧，箱子里有不少重要的东西。\n别着急，我们拿着护照和机票，去服务台问问吧。",
+    "answer": "B"
+  },
+  {
+    "lesson": 1,
+    "question": 10,
+    "format": 5,
+    "source": "1-7.mp3",
+    "start": 0,
+    "end": 38.189567,
+    "transcript": "昨天我到北京了。虽然路上花了十几个小时，但是跟家月坐在一起，我觉得时间过得很快。到机场的时候，家月发现行李箱不见了，我带她去服务台，帮助她找到了行李箱。走出机场的时候，已经八点多了，我们一出来就看见了王老师的姐姐，她看起来比照片上年轻。晚上，一雪姐带我们去吃了一家很好吃的中国菜。",
+    "answer": "A"
+  },
+  {
+    "lesson": 2,
+    "question": 1,
+    "format": 1,
+    "source": "2-1.mp3",
+    "start": 23.34,
+    "end": 26.728,
+    "transcript": "我想喝绿茶、吃饺子，可以吗？",
+    "answer": "B"
+  },
+  {
+    "lesson": 2,
+    "question": 2,
+    "format": 1,
+    "source": "2-3.mp3",
+    "start": 0.64,
+    "end": 6.761,
+    "transcript": "服务员，再给我们拿一双筷子、一个勺子和一个碗。",
+    "answer": "A"
+  },
+  {
+    "lesson": 2,
+    "question": 3,
+    "format": 2,
+    "source": "2-1.mp3",
+    "start": 14.24,
+    "end": 18.439,
+    "transcript": "那多点点儿，别客气。你们喝什么饮料？",
+    "answer": "A"
+  },
+  {
+    "lesson": 2,
+    "question": 4,
+    "format": 2,
+    "source": "2-5.mp3",
+    "start": 17.778,
+    "end": 19.608,
+    "transcript": "他们家还能送外卖？",
+    "answer": "A"
+  },
+  {
+    "lesson": 2,
+    "question": 5,
+    "format": 3,
+    "source": "2-3.mp3",
+    "start": 6.656,
+    "end": 10.42,
+    "transcript": "好的，请等一下，我马上去拿。",
+    "answer": "A"
+  },
+  {
+    "lesson": 2,
+    "question": 6,
+    "format": 3,
+    "source": "2-5.mp3",
+    "start": 27.354,
+    "end": 30.18,
+    "transcript": "那真是太方便了！",
+    "answer": "C"
+  },
+  {
+    "lesson": 2,
+    "question": 7,
+    "format": 4,
+    "source": "2-5.mp3",
+    "start": 0.544,
+    "end": 4.811,
+    "transcript": "这个鸡肉饭太好吃了，我要再来吃一次。",
+    "answer": "A"
+  },
+  {
+    "lesson": 2,
+    "question": 8,
+    "format": 4,
+    "source": "2-3.mp3",
+    "start": 23.04,
+    "end": 30.881,
+    "transcript": "这里的饭菜又便宜又好吃，我们经常来，服务员都记住我们爱吃的菜了。",
+    "answer": "C"
+  },
+  {
+    "lesson": 2,
+    "question": 9,
+    "format": 5,
+    "source": "2-5.mp3",
+    "start": 0,
+    "end": 30.344756,
+    "transcript": "这个鸡肉饭太好吃了，我要再来吃一次。\n你可以拿走这张菜单，看看下次还点什么。\n不用拿菜单，在手机上就能看到，也可以选好了让他们给你送。\n他们家还能送外卖？\n对，现在很多饭馆都能送外卖，想吃什么就点什么。\n那真是太方便了！",
+    "answer": "C"
+  },
+  {
+    "lesson": 2,
+    "question": 10,
+    "format": 5,
+    "source": "2-7.mp3",
+    "start": 0,
+    "end": 42.959,
+    "transcript": "这些年在国外，我很少自己做饭。早饭我吃一个面包，有时候吃一块蛋糕，再喝一杯咖啡。午饭和晚饭也都在外面吃。快要考试的时候又忙又累，没时间出去吃饭，家里又什么吃的都没有，我可能好几天只吃方便面。现在回到中国了，每天能吃到妈妈做的饭，我真是太高兴了！有时候妈妈只做几个简单的菜，我也非常爱吃，因为什么都没有妈妈做的饭好吃。",
+    "answer": "B"
+  },
+  {
+    "lesson": 3,
+    "question": 1,
+    "format": 1,
+    "source": "3-1.mp3",
+    "start": 18.3,
+    "end": 23.155,
+    "transcript": "房子里面也不错，空调和洗衣机都是新的。",
+    "answer": "A"
+  },
+  {
+    "lesson": 3,
+    "question": 2,
+    "format": 1,
+    "source": "3-1.mp3",
+    "start": 29.049,
+    "end": 33.871,
+    "transcript": "这个一层带一个小花园，我觉得咱们可以去看看。",
+    "answer": "C"
+  },
+  {
+    "lesson": 3,
+    "question": 3,
+    "format": 2,
+    "source": "3-1.mp3",
+    "start": 9.2,
+    "end": 12.464,
+    "transcript": "你觉得这个小区怎么样？",
+    "answer": "B"
+  },
+  {
+    "lesson": 3,
+    "question": 4,
+    "format": 2,
+    "source": "3-3.mp3",
+    "start": 10.511,
+    "end": 13.905,
+    "transcript": "冰箱不能用，这些吃的东西放在哪儿？",
+    "answer": "C"
+  },
+  {
+    "lesson": 3,
+    "question": 5,
+    "format": 3,
+    "source": "3-1.mp3",
+    "start": 13.743,
+    "end": 17.317,
+    "transcript": "环境挺好的，离地铁站还不远。",
+    "answer": "C"
+  },
+  {
+    "lesson": 3,
+    "question": 6,
+    "format": 3,
+    "source": "3-3.mp3",
+    "start": 1.091,
+    "end": 4.545,
+    "transcript": "我今天早上来的时候，灯还开着。",
+    "answer": "A"
+  },
+  {
+    "lesson": 3,
+    "question": 7,
+    "format": 4,
+    "source": "3-3.mp3",
+    "start": 22.311,
+    "end": 27.34,
+    "transcript": "没坏，但是卫生间没打扫好，还不能洗衣服。",
+    "answer": "C"
+  },
+  {
+    "lesson": 3,
+    "question": 8,
+    "format": 4,
+    "source": "3-5.mp3",
+    "start": 27.72,
+    "end": 30.362,
+    "transcript": "那我下午自己去吧。",
+    "answer": "C"
+  },
+  {
+    "lesson": 3,
+    "question": 9,
+    "format": 5,
+    "source": "3-5.mp3",
+    "start": 0,
+    "end": 31.256938,
+    "transcript": "这个月花了不少钱。\n是的，我们买了很多搬家时要用的东西。\n咱们办张信用卡吧，花的钱可以慢慢还。听说中国银行的服务不错，办了信用卡买东西还能便宜。\n好啊！中国银行很近，走路几分钟就能到。咱们什么时候去？\n今天下午？\n我下午要去医院，很晚才能回来。\n那我下午自己去吧。",
+    "answer": "C"
+  },
+  {
+    "lesson": 3,
+    "question": 10,
+    "format": 5,
+    "source": "3-7.mp3",
+    "start": 0,
+    "end": 30.344756,
+    "transcript": "我觉得这个星期就能搬完。我明天去买一些纸箱，很快就能准备好。搬家那天，我想请几位朋友来帮忙，最多一天就能搬完。\n我觉得下个月才能搬家。这周开始准备新家，下周去打扫新家，这么多事情最少需要两个星期才能做完。搬家那天，我们应该找一家搬家公司。",
+    "answer": "B"
+  },
+  {
+    "lesson": 4,
+    "question": 1,
+    "format": 1,
+    "source": "4-1.mp3",
+    "start": 26.25,
+    "end": 32.735,
+    "transcript": "对，在草原上骑马、吃羊肉、看月亮，一定很有意思。",
+    "answer": "A"
+  },
+  {
+    "lesson": 4,
+    "question": 2,
+    "format": 1,
+    "source": "4-3.mp3",
+    "start": 25.301,
+    "end": 30.32,
+    "transcript": "我们不用带太多东西，别忘了拿上新买的相机。",
+    "answer": "C"
+  },
+  {
+    "lesson": 4,
+    "question": 3,
+    "format": 2,
+    "source": "4-1.mp3",
+    "start": 0.308,
+    "end": 2.723,
+    "transcript": "这个假期咱们去哪儿玩玩吧。",
+    "answer": "A"
+  },
+  {
+    "lesson": 4,
+    "question": 4,
+    "format": 2,
+    "source": "4-3.mp3",
+    "start": 0.939,
+    "end": 2.947,
+    "transcript": "出去玩的机票买好了吗？",
+    "answer": "C"
+  },
+  {
+    "lesson": 4,
+    "question": 5,
+    "format": 3,
+    "source": "4-1.mp3",
+    "start": 13.252,
+    "end": 15.329,
+    "transcript": "现在去海边有点儿冷。",
+    "answer": "C"
+  },
+  {
+    "lesson": 4,
+    "question": 6,
+    "format": 3,
+    "source": "4-3.mp3",
+    "start": 31.518,
+    "end": 33.041,
+    "transcript": "一定不会忘带的。",
+    "answer": "A"
+  },
+  {
+    "lesson": 4,
+    "question": 7,
+    "format": 4,
+    "source": "4-5.mp3",
+    "start": 21.339,
+    "end": 24.014,
+    "transcript": "车在一层，请跟我来。",
+    "answer": "A"
+  },
+  {
+    "lesson": 4,
+    "question": 8,
+    "format": 4,
+    "source": "4-5.mp3",
+    "start": 28.443,
+    "end": 31.18,
+    "transcript": "不远，三十分钟就能到。",
+    "answer": "C"
+  },
+  {
+    "lesson": 4,
+    "question": 9,
+    "format": 5,
+    "source": "4-5.mp3",
+    "start": 0,
+    "end": 36.9125,
+    "transcript": "欢迎你们！我是你们的司机，我姓李，叫我小李就可以。\n您好！不好意思，飞机晚点了，让您久等了。\n没关系。除了这个行李箱以外，还有别的东西吗？\n还有一个包，我自己拿就可以。\n车在一层，请跟我来。\n我们住的宾馆离机场远吗？\n不远，三十分钟就能到。两位到了可以先休息休息，晚饭的时候我叫你们。",
+    "answer": "B"
+  },
+  {
+    "lesson": 4,
+    "question": 10,
+    "format": 5,
+    "source": "4-7.mp3",
+    "start": 0,
+    "end": 30.136256,
+    "transcript": "今天是我们旅游的第一天。我们很早就起床去机场了，没想到飞机晚点了。我们到的时候，天已经黑了，但是司机小李一直在机场等我们，一点儿也没着急。他特别热情，路上给我们介绍了很多东西，还准备了水果。宾馆的房间跟我想的一样漂亮，又大又干净，我非常满意。",
+    "answer": "C"
+  },
+  {
+    "lesson": 5,
+    "question": 1,
+    "format": 1,
+    "source": "5-1.mp3",
+    "start": 8.894,
+    "end": 13.379,
+    "transcript": "好啊！又能锻炼身体，又能照好看的照片。",
+    "answer": "C"
+  },
+  {
+    "lesson": 5,
+    "question": 2,
+    "format": 1,
+    "source": "5-1.mp3",
+    "start": 18.32,
+    "end": 21.18,
+    "transcript": "我回去穿上运动鞋，拿上大衣。",
+    "answer": "B"
+  },
+  {
+    "lesson": 5,
+    "question": 3,
+    "format": 2,
+    "source": "5-1.mp3",
+    "start": 6.956,
+    "end": 8.97,
+    "transcript": "我们去爬山怎么样？",
+    "answer": "A"
+  },
+  {
+    "lesson": 5,
+    "question": 4,
+    "format": 2,
+    "source": "5-3.mp3",
+    "start": 0.717,
+    "end": 3.165,
+    "transcript": "这些照片是谁给您照的？",
+    "answer": "B"
+  },
+  {
+    "lesson": 5,
+    "question": 5,
+    "format": 3,
+    "source": "5-1.mp3",
+    "start": 0.533,
+    "end": 4.719,
+    "transcript": "这个星期总是阴天，今天终于晴了。",
+    "answer": "C"
+  },
+  {
+    "lesson": 5,
+    "question": 6,
+    "format": 3,
+    "source": "5-5.mp3",
+    "start": 36.854,
+    "end": 38.853,
+    "transcript": "啊，手机没电了。",
+    "answer": "B"
+  },
+  {
+    "lesson": 5,
+    "question": 7,
+    "format": 4,
+    "source": "5-5.mp3",
+    "start": 27.209,
+    "end": 30.334,
+    "transcript": "你不用看着我，想干什么都可以。",
+    "answer": "A"
+  },
+  {
+    "lesson": 5,
+    "question": 8,
+    "format": 4,
+    "source": "5-3.mp3",
+    "start": 34.362,
+    "end": 38.905,
+    "transcript": "好，我可以比较一下你们两个谁的水平高。",
+    "answer": "A"
+  },
+  {
+    "lesson": 5,
+    "question": 9,
+    "format": 5,
+    "source": "5-5.mp3",
+    "start": 0,
+    "end": 40.092125,
+    "transcript": "家月，这里挺漂亮的，咱们在这里拍照吧。\n这边没有太阳，咱们去那边。\n好。你觉得我站在这些树中间怎么样？\n挺好的。等一下，后边走过去两个人。\n我准备好了，你照的时候告诉我。\n你不用看着我，想干什么都可以。\n树上飞来了几只鸟，我就看它们吧。\n啊，手机没电了。",
+    "answer": "A"
+  },
+  {
+    "lesson": 5,
+    "question": 10,
+    "format": 5,
+    "source": "5-7.mp3",
+    "start": 0,
+    "end": 31.4915,
+    "transcript": "家月，我收到了你的那封邮件，也看到了你给我照的照片，张张都很漂亮。我已经告诉了一飞，你的拍照水平比她高，她难过得很，哈哈。不知道你对中国的音乐有没有兴趣？我送你一张明天下午音乐会的门票。音乐会七点多结束，你听完了音乐会就来我家吃饭，尝尝我做的中国菜。你觉得怎么样？",
+    "answer": "B"
+  },
+  {
+    "lesson": 6,
+    "question": 1,
+    "format": 1,
+    "source": "6-1.mp3",
+    "start": 6.572,
+    "end": 10.687,
+    "transcript": "我还没坐过高铁，咱们坐高铁去，怎么样？",
+    "answer": "B"
+  },
+  {
+    "lesson": 6,
+    "question": 2,
+    "format": 1,
+    "source": "6-5.mp3",
+    "start": 29.56,
+    "end": 33.18,
+    "transcript": "检票口在二层，我们一会儿坐电梯上去。",
+    "answer": "C"
+  },
+  {
+    "lesson": 6,
+    "question": 3,
+    "format": 2,
+    "source": "6-1.mp3",
+    "start": 16.839,
+    "end": 19.051,
+    "transcript": "行！怎么买高铁票呢？",
+    "answer": "B"
+  },
+  {
+    "lesson": 6,
+    "question": 4,
+    "format": 2,
+    "source": "6-5.mp3",
+    "start": 27.4,
+    "end": 29.18,
+    "transcript": "去哪里检票？",
+    "answer": "C"
+  },
+  {
+    "lesson": 6,
+    "question": 5,
+    "format": 3,
+    "source": "6-1.mp3",
+    "start": 28.784,
+    "end": 32.306,
+    "transcript": "高铁又快又舒服，你一定会喜欢的。",
+    "answer": "C"
+  },
+  {
+    "lesson": 6,
+    "question": 6,
+    "format": 3,
+    "source": "6-5.mp3",
+    "start": 10.54,
+    "end": 12.878,
+    "transcript": "前面的人越来越多。",
+    "answer": "C"
+  },
+  {
+    "lesson": 6,
+    "question": 7,
+    "format": 4,
+    "source": "6-5.mp3",
+    "start": 22.733,
+    "end": 27.18,
+    "transcript": "不用拿票，刷护照就能检票进站。",
+    "answer": "A"
+  },
+  {
+    "lesson": 6,
+    "question": 8,
+    "format": 4,
+    "source": "6-3.mp3",
+    "start": 28.956,
+    "end": 30.8,
+    "transcript": "我一急就走错了。",
+    "answer": "A"
+  },
+  {
+    "lesson": 6,
+    "question": 9,
+    "format": 5,
+    "source": "6-5.mp3",
+    "start": 0,
+    "end": 34.280189,
+    "transcript": "李文，我的耳机没电了，你有充电宝吗？\n有，这些常用的东西我都放在包里了，我给你拿。\n前面的人越来越多。\n对，马上就进高铁站了。咱们一起走，别分开。\n好，你检查一下，高铁票都拿好了吗？\n不用拿票，刷护照就能检票进站。\n去哪里检票？\n检票口在二层，我们一会儿坐电梯上去。",
+    "answer": "A"
+  },
+  {
+    "lesson": 6,
+    "question": 10,
+    "format": 5,
+    "source": "6-7.mp3",
+    "start": 0,
+    "end": 48.5885,
+    "transcript": "这次放假，我去了北京，还去了上海。我是从北京南站坐高铁去的上海。我觉得坐在高铁上跟坐在家里的沙发上一样，又安静又舒服。坐累了就站一会儿，饿了就点外卖。对，你没听错，高铁上可以点外卖，只需要选择好车站和想吃的东西，到站时不用下车，服务员就会给你拿过来。现在喜欢坐高铁的人越来越多。我爸妈来中国旅游的时候，必须带他们也坐一次高铁。",
+    "answer": "B"
+  },
+  {
+    "lesson": 7,
+    "question": 1,
+    "format": 1,
+    "source": "7-1.mp3",
+    "start": 13.056,
+    "end": 17.678,
+    "transcript": "商场里开了一家自行车店，咱们给她买一辆新的吧。",
+    "answer": "B"
+  },
+  {
+    "lesson": 7,
+    "question": 2,
+    "format": 1,
+    "source": "7-3.mp3",
+    "start": 0.491,
+    "end": 3.587,
+    "transcript": "你看我穿这条黄色的短裤好看吗？",
+    "answer": "C"
+  },
+  {
+    "lesson": 7,
+    "question": 3,
+    "format": 2,
+    "source": "7-3.mp3",
+    "start": 12.558,
+    "end": 13.428,
+    "transcript": "贵多少？",
+    "answer": "A"
+  },
+  {
+    "lesson": 7,
+    "question": 4,
+    "format": 2,
+    "source": "7-5.mp3",
+    "start": 5.115,
+    "end": 7.635,
+    "transcript": "西瓜看起来不错，怎么卖？",
+    "answer": "B"
+  },
+  {
+    "lesson": 7,
+    "question": 5,
+    "format": 3,
+    "source": "7-1.mp3",
+    "start": 30.376,
+    "end": 33.323,
+    "transcript": "商场不远，咱们可以走着去。",
+    "answer": "C"
+  },
+  {
+    "lesson": 7,
+    "question": 6,
+    "format": 3,
+    "source": "7-5.mp3",
+    "start": 15.148,
+    "end": 16.277,
+    "transcript": "是挺甜的！",
+    "answer": "A"
+  },
+  {
+    "lesson": 7,
+    "question": 7,
+    "format": 4,
+    "source": "7-1.mp3",
+    "start": 18.551,
+    "end": 22.868,
+    "transcript": "好，咱们带小雪一起去，让她试一下。",
+    "answer": "C"
+  },
+  {
+    "lesson": 7,
+    "question": 8,
+    "format": 4,
+    "source": "7-3.mp3",
+    "start": 25.192,
+    "end": 29.81,
+    "transcript": "我多看看再决定。你看，那边有买二送一！",
+    "answer": "C"
+  },
+  {
+    "lesson": 7,
+    "question": 9,
+    "format": 5,
+    "source": "7-3.mp3",
+    "start": 0,
+    "end": 30.449,
+    "transcript": "你看我穿这条黄色的短裤好看吗？\n大小合适，但我觉得那条裙子比短裤更好看。\n裙子比短裤贵一点儿。\n贵多少？\n裙子480，短裤400。\n裙子不比短裤贵多少，还是买裙子吧，你穿裙子更好看。\n我多看看再决定。你看，那边有买二送一！",
+    "answer": "A"
+  },
+  {
+    "lesson": 7,
+    "question": 10,
+    "format": 5,
+    "source": "7-7.mp3",
+    "start": 0,
+    "end": 36.521567,
+    "transcript": "这几天我们在新家坐着看电视的时候，又发现了新问题。房子大了，电视看起来就有点儿小。这个电视是我们结婚时买的，是时候换个新电视了。今天我一直在网上选电视，没想到，现在的电视不但便宜，而且用着非常方便，有的电视叫它一声就能开机。我看了好几个，都很满意，晚上让一雪来决定吧。",
+    "answer": "C"
+  },
+  {
+    "lesson": 8,
+    "question": 1,
+    "format": 1,
+    "source": "8-1.mp3",
+    "start": 19.24,
+    "end": 24.159,
+    "transcript": "我下课以后常去打羽毛球，你也来玩吧。",
+    "answer": "B"
+  },
+  {
+    "lesson": 8,
+    "question": 2,
+    "format": 1,
+    "source": "8-3.mp3",
+    "start": 4.766,
+    "end": 9.479,
+    "transcript": "昨天游完泳以后，耳朵一直有点儿疼。",
+    "answer": "B"
+  },
+  {
+    "lesson": 8,
+    "question": 3,
+    "format": 2,
+    "source": "8-3.mp3",
+    "start": 9.669,
+    "end": 12.556,
+    "transcript": "是不是感冒了？发烧吗？",
+    "answer": "A"
+  },
+  {
+    "lesson": 8,
+    "question": 4,
+    "format": 2,
+    "source": "8-5.mp3",
+    "start": 0.551,
+    "end": 4.344,
+    "transcript": "你怎么突然住院了？大家都很担心你。",
+    "answer": "A"
+  },
+  {
+    "lesson": 8,
+    "question": 5,
+    "format": 3,
+    "source": "8-1.mp3",
+    "start": 4.394,
+    "end": 8.313,
+    "transcript": "我每天下午都来跑一个小时步。",
+    "answer": "A"
+  },
+  {
+    "lesson": 8,
+    "question": 6,
+    "format": 3,
+    "source": "8-3.mp3",
+    "start": 20.446,
+    "end": 24.988,
+    "transcript": "我先回去睡一觉，可能休息休息就好了。",
+    "answer": "C"
+  },
+  {
+    "lesson": 8,
+    "question": 7,
+    "format": 4,
+    "source": "8-5.mp3",
+    "start": 40.532,
+    "end": 44.597,
+    "transcript": "谢谢。有人来看我，我就开心多了。",
+    "answer": "A"
+  },
+  {
+    "lesson": 8,
+    "question": 8,
+    "format": 4,
+    "source": "8-1.mp3",
+    "start": 30.54,
+    "end": 32.826,
+    "transcript": "没关系，我可以教你。",
+    "answer": "B"
+  },
+  {
+    "lesson": 8,
+    "question": 9,
+    "format": 5,
+    "source": "8-5.mp3",
+    "start": 0,
+    "end": 45.461,
+    "transcript": "你怎么突然住院了？大家都很担心你。\n我的腿疼了几个星期了，医生说需要住院做检查。\n你看起来一点儿也不像病人。\n是啊，我很少生病。我上次来医院已经过去差不多两年了。\n你每天跑步，有时候还去游泳，是不是运动太多了？\n医生也这么说，但是还得做完检查才能知道。\n别担心！听医生的话，好好休息，你的腿一定能好。\n谢谢。有人来看我，我就开心多了。",
+    "answer": "C"
+  },
+  {
+    "lesson": 8,
+    "question": 10,
+    "format": 5,
+    "source": "8-7.mp3",
+    "start": 0,
+    "end": 32.924938,
+    "transcript": "今天我出院了。出院前，医生给我开了几种药，而且告诉了我吃药的方法。有一种药需要每天睡前吃一次，其他几种每天吃三次，饭后吃。除了吃药，医生还说最重要的是多休息。我都记在心里了，回家以后一定会多注意。希望我的腿能快一点儿好。",
+    "answer": "B"
+  },
+  {
+    "lesson": 9,
+    "question": 1,
+    "format": 1,
+    "source": "9-1.mp3",
+    "start": 23.617,
+    "end": 27.381,
+    "transcript": "我想参加网球比赛，最近一直在练习。",
+    "answer": "C"
+  },
+  {
+    "lesson": 9,
+    "question": 2,
+    "format": 1,
+    "source": "9-5.mp3",
+    "start": 0.506,
+    "end": 4.461,
+    "transcript": "足球比赛已经开始了，快过来看吧！",
+    "answer": "C"
+  },
+  {
+    "lesson": 9,
+    "question": 3,
+    "format": 2,
+    "source": "9-3.mp3",
+    "start": 1.697,
+    "end": 4.187,
+    "transcript": "你跟我们一起打羽毛球吧？",
+    "answer": "A"
+  },
+  {
+    "lesson": 9,
+    "question": 4,
+    "format": 2,
+    "source": "9-1.mp3",
+    "start": 21.288,
+    "end": 23.399,
+    "transcript": "你打算参加运动会吗？",
+    "answer": "C"
+  },
+  {
+    "lesson": 9,
+    "question": 5,
+    "format": 3,
+    "source": "9-3.mp3",
+    "start": 25.798,
+    "end": 29.683,
+    "transcript": "我先自己练练吧，下周再跟你们一起打。",
+    "answer": "A"
+  },
+  {
+    "lesson": 9,
+    "question": 6,
+    "format": 3,
+    "source": "9-5.mp3",
+    "start": 28.704,
+    "end": 30.213,
+    "transcript": "越看越着急。",
+    "answer": "B"
+  },
+  {
+    "lesson": 9,
+    "question": 7,
+    "format": 4,
+    "source": "9-3.mp3",
+    "start": 22.289,
+    "end": 25.739,
+    "transcript": "大家打球只是为了锻炼身体。",
+    "answer": "C"
+  },
+  {
+    "lesson": 9,
+    "question": 8,
+    "format": 4,
+    "source": "9-5.mp3",
+    "start": 30.622,
+    "end": 34.109,
+    "transcript": "我不看了，你们告诉我得分吧。",
+    "answer": "C"
+  },
+  {
+    "lesson": 9,
+    "question": 9,
+    "format": 5,
+    "source": "9-3.mp3",
+    "start": 0,
+    "end": 36.521567,
+    "transcript": "家月，你跟我们一起打羽毛球吧？\n我好多年没打羽毛球了，几乎忘了怎么打了。\n不是比赛，打不好没关系。\n这么多同学一起打，如果总是接不住球，就太不好意思了。\n你想得太多了！大家打球只是为了锻炼身体。\n我先自己练练吧，下周再跟你们一起打。\n我在教天中打羽毛球，你可以过来跟我们一起练。",
+    "answer": "A"
+  },
+  {
+    "lesson": 9,
+    "question": 10,
+    "format": 5,
+    "source": "9-5.mp3",
+    "start": 0,
+    "end": 34.175938,
+    "transcript": "足球比赛已经开始了，快过来看吧！\n你们先看，冰箱里有啤酒和饮料，我去拿一下。\n今天怎么回事？总是踢不进去！\n几个老球员生病了，新球员第一次参加这么重要的比赛，太紧张了。\n是啊，主要的球员没参加比赛，所以大家也都受到影响了。\n越看越着急。我不看了，你们告诉我得分吧。",
+    "answer": "B"
+  },
+  {
+    "lesson": 10,
+    "question": 1,
+    "format": 1,
+    "source": "10-1.mp3",
+    "start": 5.864,
+    "end": 10.328,
+    "transcript": "没有什么特别的方法，认真听课，认真记笔记。",
+    "answer": "B"
+  },
+  {
+    "lesson": 10,
+    "question": 2,
+    "format": 1,
+    "source": "10-5.mp3",
+    "start": 12.365,
+    "end": 18.139,
+    "transcript": "书上第五页的这个对话我看不懂，小雪也不明白。",
+    "answer": "B"
+  },
+  {
+    "lesson": 10,
+    "question": 3,
+    "format": 2,
+    "source": "10-1.mp3",
+    "start": 0.505,
+    "end": 5.477,
+    "transcript": "你的数学越来越好，能不能介绍一下学习方法？",
+    "answer": "A"
+  },
+  {
+    "lesson": 10,
+    "question": 4,
+    "format": 2,
+    "source": "10-3.mp3",
+    "start": 26.321,
+    "end": 28.036,
+    "transcript": "我可以问问你吗？",
+    "answer": "B"
+  },
+  {
+    "lesson": 10,
+    "question": 5,
+    "format": 3,
+    "source": "10-1.mp3",
+    "start": 26.899,
+    "end": 31.633,
+    "transcript": "笔记挺重要的，我每天写作业以前，都要看一遍。",
+    "answer": "C"
+  },
+  {
+    "lesson": 10,
+    "question": 6,
+    "format": 3,
+    "source": "10-5.mp3",
+    "start": 25.019,
+    "end": 26.394,
+    "transcript": "我终于懂了。",
+    "answer": "A"
+  },
+  {
+    "lesson": 10,
+    "question": 7,
+    "format": 4,
+    "source": "10-3.mp3",
+    "start": 18.042,
+    "end": 23.18,
+    "transcript": "明天还有考试呢，别想那么多了，先复习外语吧。",
+    "answer": "A"
+  },
+  {
+    "lesson": 10,
+    "question": 8,
+    "format": 4,
+    "source": "10-5.mp3",
+    "start": 30.133,
+    "end": 33.078,
+    "transcript": "我也明白了，谢谢您，李老师。",
+    "answer": "C"
+  },
+  {
+    "lesson": 10,
+    "question": 9,
+    "format": 5,
+    "source": "10-5.mp3",
+    "start": 0,
+    "end": 42.385625,
+    "transcript": "李老师，书上有几个问题，我们想问问您。\n好，坐下说吧，哪个题不会？\n书上第五页的这个对话我看不懂，小雪也不明白。\n我课上讲过这几句话，再给你们讲一遍。\n我终于懂了。这些句子一点儿也不难。\n我也明白了，谢谢您，李老师。\n我这本书上还有几个练习，你们回家也做一做，明天再把书还给我。",
+    "answer": "C"
+  },
+  {
+    "lesson": 10,
+    "question": 10,
+    "format": 5,
+    "source": "10-7.mp3",
+    "start": 0,
+    "end": 43.506313,
+    "transcript": "家月姐姐：你最近怎么样？忙不忙？我现在上初中二年级，学习越来越忙，后年就要考高中了。中国的学校一般是小学六年，初中三年，高中三年。妈妈说想考上好大学，就得上一个好高中；为了考上好高中，初中就得有一个不错的成绩，所以我现在非常努力。家月姐姐，你知道吗？在你的影响下，我也开始喜欢拍照了。下次你再来北京，我给你看看我照的照片。",
+    "answer": "C"
+  },
+  {
+    "lesson": 11,
+    "question": 1,
+    "format": 1,
+    "source": "11-1.mp3",
+    "start": 18.51,
+    "end": 24.264,
+    "transcript": "开会的时候，我们用会议室的电脑还是自己的笔记本电脑？",
+    "answer": "B"
+  },
+  {
+    "lesson": 11,
+    "question": 2,
+    "format": 1,
+    "source": "11-5.mp3",
+    "start": 14.716,
+    "end": 17.698,
+    "transcript": "十二点多了，咱们先去吃饭吧。",
+    "answer": "B"
+  },
+  {
+    "lesson": 11,
+    "question": 3,
+    "format": 2,
+    "source": "11-1.mp3",
+    "start": 0.665,
+    "end": 2.956,
+    "transcript": "会议下午几点开始？",
+    "answer": "A"
+  },
+  {
+    "lesson": 11,
+    "question": 4,
+    "format": 2,
+    "source": "11-3.mp3",
+    "start": 0.542,
+    "end": 1.958,
+    "transcript": "电脑接好了吗？",
+    "answer": "C"
+  },
+  {
+    "lesson": 11,
+    "question": 5,
+    "format": 3,
+    "source": "11-3.mp3",
+    "start": 17.347,
+    "end": 20.469,
+    "transcript": "看见了，但是听不见声音。",
+    "answer": "A"
+  },
+  {
+    "lesson": 11,
+    "question": 6,
+    "format": 3,
+    "source": "11-5.mp3",
+    "start": 35.934,
+    "end": 38.839,
+    "transcript": "那不着急了。走，吃饭去。",
+    "answer": "B"
+  },
+  {
+    "lesson": 11,
+    "question": 7,
+    "format": 4,
+    "source": "11-1.mp3",
+    "start": 4.035,
+    "end": 7.467,
+    "transcript": "今天下午经理不在，不开会了。",
+    "answer": "A"
+  },
+  {
+    "lesson": 11,
+    "question": 8,
+    "format": 4,
+    "source": "11-3.mp3",
+    "start": 23.242,
+    "end": 28.442,
+    "transcript": "听得见声音，但是声音有点儿小，听不清楚。",
+    "answer": "A"
+  },
+  {
+    "lesson": 11,
+    "question": 9,
+    "format": 5,
+    "source": "11-1.mp3",
+    "start": 0,
+    "end": 34.697189,
+    "transcript": "会议下午几点开始？\n今天下午经理不在，不开会了。\n那什么时候开会？\n后天上午十点，会议地点换到第一会议室。我正要给大家发邮件。\n开会的时候，我们用会议室的电脑还是自己的笔记本电脑？\n会议室的电脑或者自己的电脑都可以。\n那到时候咱们早点儿过去，你帮我把电脑接好吧。",
+    "answer": "B"
+  },
+  {
+    "lesson": 11,
+    "question": 10,
+    "format": 5,
+    "source": "11-7.mp3",
+    "start": 0,
+    "end": 41.786189,
+    "transcript": "前几天，上海的同事来北京了。一起吃饭时，他们跟我说最近有不少同事去上海工作了，问我愿意不愿意也去上海。我是这样想的：现在丈夫和孩子都在北京，刘明的工作很忙，小雪和小明也还小，我去别的城市工作就要离开他们。虽然去上海可能会有更好的机会，但是对我来说，生活也很重要，我不愿意为工作或学习离开家人。",
+    "answer": "A"
+  },
+  {
+    "lesson": 12,
+    "question": 1,
+    "format": 1,
+    "source": "12-1.mp3",
+    "start": 6.477,
+    "end": 11.152,
+    "transcript": "上周我去公园坐船了，公园里的花也开了。",
+    "answer": "B"
+  },
+  {
+    "lesson": 12,
+    "question": 2,
+    "format": 1,
+    "source": "12-3.mp3",
+    "start": 15.451,
+    "end": 20.378,
+    "transcript": "我可以借给你，我车里有一把伞和一件雨衣。",
+    "answer": "C"
+  },
+  {
+    "lesson": 12,
+    "question": 3,
+    "format": 2,
+    "source": "12-1.mp3",
+    "start": 21.395,
+    "end": 25.005,
+    "transcript": "您有时间吗？我想跟您一起去。",
+    "answer": "B"
+  },
+  {
+    "lesson": 12,
+    "question": 4,
+    "format": 2,
+    "source": "12-5.mp3",
+    "start": 11.524,
+    "end": 15.619,
+    "transcript": "为什么？您不喜欢这里的天气吗？",
+    "answer": "B"
+  },
+  {
+    "lesson": 12,
+    "question": 5,
+    "format": 3,
+    "source": "12-3.mp3",
+    "start": 25.905,
+    "end": 28.196,
+    "transcript": "这个季节天气变化很快。",
+    "answer": "B"
+  },
+  {
+    "lesson": 12,
+    "question": 6,
+    "format": 3,
+    "source": "12-5.mp3",
+    "start": 16.083,
+    "end": 19.015,
+    "transcript": "我觉得冬天太冷了。",
+    "answer": "A"
+  },
+  {
+    "lesson": 12,
+    "question": 7,
+    "format": 4,
+    "source": "12-1.mp3",
+    "start": 25.681,
+    "end": 29.925,
+    "transcript": "我今天下午有课，不能去太远的地方。",
+    "answer": "A"
+  },
+  {
+    "lesson": 12,
+    "question": 8,
+    "format": 4,
+    "source": "12-3.mp3",
+    "start": 29.013,
+    "end": 31.881,
+    "transcript": "雨已经下起来了，咱们快点儿走吧。",
+    "answer": "B"
+  },
+  {
+    "lesson": 12,
+    "question": 9,
+    "format": 5,
+    "source": "12-3.mp3",
+    "start": 0,
+    "end": 32.560067,
+    "transcript": "刚才还是大晴天呢，怎么突然就刮起风来了？\n好像新闻里说今天有雨。\n啊？我每天书包里都放着雨伞，就今天没带。\n我可以借给你，我车里有一把伞和一件雨衣。\n谢谢，希望下午天气能变好。\n这个季节天气变化很快。\n雨已经下起来了，咱们快点儿走吧。",
+    "answer": "B"
+  },
+  {
+    "lesson": 12,
+    "question": 10,
+    "format": 5,
+    "source": "12-7.mp3",
+    "start": 0,
+    "end": 43.5845,
+    "transcript": "我离开北京到这里工作一年多了。这一年多住下来，我还是更喜欢北京的四季。北京的春天最舒服，天气不冷不热。夏天白天很热，但是晚上比较凉快。秋天树上的叶子都变成了红色、黄色，非常漂亮。冬天不但冷，而且风很大，我最不喜欢冬天。每个人都有自己最喜欢的季节，你最喜欢哪个季节呢？",
+    "answer": "B"
+  },
+  {
+    "lesson": 13,
+    "question": 1,
+    "format": 1,
+    "source": "13-5.mp3",
+    "start": 27.378,
+    "end": 31.329,
+    "transcript": "画板和画笔，这正是我需要的。我太喜欢了！",
+    "answer": "A"
+  },
+  {
+    "lesson": 13,
+    "question": 2,
+    "format": 1,
+    "source": "13-5.mp3",
+    "start": 32.766,
+    "end": 37.337,
+    "transcript": "我去把盘子拿过来，咱们一边吃蛋糕，一边聊天儿吧。",
+    "answer": "A"
+  },
+  {
+    "lesson": 13,
+    "question": 3,
+    "format": 2,
+    "source": "13-1.mp3",
+    "start": 15.676,
+    "end": 18.291,
+    "transcript": "除了鱼，你们还想吃什么？",
+    "answer": "C"
+  },
+  {
+    "lesson": 13,
+    "question": 4,
+    "format": 2,
+    "source": "13-5.mp3",
+    "start": 14.185,
+    "end": 15.365,
+    "transcript": "我可以打开吗？",
+    "answer": "A"
+  },
+  {
+    "lesson": 13,
+    "question": 5,
+    "format": 3,
+    "source": "13-3.mp3",
+    "start": 35.62,
+    "end": 38.608,
+    "transcript": "好，那我们就等客人来吧。",
+    "answer": "A"
+  },
+  {
+    "lesson": 13,
+    "question": 6,
+    "format": 3,
+    "source": "13-5.mp3",
+    "start": 28.761,
+    "end": 30.163,
+    "transcript": "这正是我需要的。",
+    "answer": "B"
+  },
+  {
+    "lesson": 13,
+    "question": 7,
+    "format": 4,
+    "source": "13-3.mp3",
+    "start": 19.728,
+    "end": 25.299,
+    "transcript": "我把饮料和酒都放进冰箱里了，客人来了再拿出来。",
+    "answer": "C"
+  },
+  {
+    "lesson": 13,
+    "question": 8,
+    "format": 4,
+    "source": "13-1.mp3",
+    "start": 28.333,
+    "end": 30.938,
+    "transcript": "咱们就三个人，别点那么多。",
+    "answer": "B"
+  },
+  {
+    "lesson": 13,
+    "question": 9,
+    "format": 5,
+    "source": "13-3.mp3",
+    "start": 0,
+    "end": 39.362378,
+    "transcript": "第一次请新邻居来做客，总是担心有什么没准备好。\n放心吧，我帮你看了，都已经准备好了。\n我记得刚才已经把饮料拿出来了，怎么不见了？\n我把饮料和酒都放进冰箱里了，客人来了再拿出来。\n音乐的声音合适吗？\n你把声音开得太大了，我去关小一点儿。\n好，那我们就等客人来吧。",
+    "answer": "B"
+  },
+  {
+    "lesson": 13,
+    "question": 10,
+    "format": 5,
+    "source": "13-7.mp3",
+    "start": 0,
+    "end": 46.451378,
+    "transcript": "我的新邻居是来自英国的夫妻。上周我去他们家做客了。他们做了很多好吃的，还准备了英国的红茶。那天我跟他们一边喝红茶，一边聊天儿，直到十二点多才回家。他们年轻的时候喜欢旅游，他家有一张世界地图，上面每一个红点都是他们去过的地方。后来，他们感到东方的文化很特别，就开始学习中文。今天是小明的生日，我请他们到我家玩，来看看中国人的家，也尝尝中国菜。",
+    "answer": "C"
+  },
+  {
+    "lesson": 14,
+    "question": 1,
+    "format": 1,
+    "source": "14-3.mp3",
+    "start": 12.813,
+    "end": 17.596,
+    "transcript": "咱们一起走吧，我想去图书馆看看中文报纸。",
+    "answer": "A"
+  },
+  {
+    "lesson": 14,
+    "question": 2,
+    "format": 1,
+    "source": "14-5.mp3",
+    "start": 8.81,
+    "end": 15.382,
+    "transcript": "我想唱中文歌，但是还没找到人一起表演，不知道怎么办。",
+    "answer": "A"
+  },
+  {
+    "lesson": 14,
+    "question": 3,
+    "format": 2,
+    "source": "14-1.mp3",
+    "start": 13.797,
+    "end": 16.165,
+    "transcript": "你能再帮我借本书吗？",
+    "answer": "A"
+  },
+  {
+    "lesson": 14,
+    "question": 4,
+    "format": 2,
+    "source": "14-5.mp3",
+    "start": 15.432,
+    "end": 17.969,
+    "transcript": "找不到人，你就一个人唱吧。",
+    "answer": "C"
+  },
+  {
+    "lesson": 14,
+    "question": 5,
+    "format": 3,
+    "source": "14-1.mp3",
+    "start": 16.187,
+    "end": 19.081,
+    "transcript": "行，你告诉我书名。",
+    "answer": "B"
+  },
+  {
+    "lesson": 14,
+    "question": 6,
+    "format": 3,
+    "source": "14-5.mp3",
+    "start": 28.742,
+    "end": 30.061,
+    "transcript": "你要相信自己。",
+    "answer": "C"
+  },
+  {
+    "lesson": 14,
+    "question": 7,
+    "format": 4,
+    "source": "14-3.mp3",
+    "start": 36.092,
+    "end": 41.688,
+    "transcript": "进不去图书馆也没关系，上网看看有没有电子书。",
+    "answer": "C"
+  },
+  {
+    "lesson": 14,
+    "question": 8,
+    "format": 4,
+    "source": "14-1.mp3",
+    "start": 29.835,
+    "end": 31.894,
+    "transcript": "明天我借给你吧。",
+    "answer": "C"
+  },
+  {
+    "lesson": 14,
+    "question": 9,
+    "format": 5,
+    "source": "14-3.mp3",
+    "start": 0,
+    "end": 47.650256,
+    "transcript": "今天下课早，你一会儿做什么？\n我今天忙得很，要先去图书馆借书，然后去游泳。\n咱们一起走吧，我想去图书馆看看中文报纸。\n等等，我的校园卡不见了，没有卡进不去图书馆。\n你想想上一次用是什么时候？\n我忘记了，可能被我放在家里了。\n进不去图书馆也没关系，上网看看有没有电子书。\n不行，我必须去，我还得帮李文还书呢。",
+    "answer": "C"
+  },
+  {
+    "lesson": 14,
+    "question": 10,
+    "format": 5,
+    "source": "14-7.mp3",
+    "start": 0,
+    "end": 36.860378,
+    "transcript": "昨天是我们学校的新年晚会，每个班级的同学都表演节目了。晚会是八点开始的，差不多十二点才结束。我一个晚上跟大家一起又唱又跳，开心极了，也累坏了。我最喜欢的节目是留学生跳舞，最后老师和校长也被叫起来一块儿跳，特别有意思。过几天学校的网站上会有晚会的视频，我打算再看一遍。",
+    "answer": "C"
+  },
+  {
+    "lesson": 15,
+    "question": 1,
+    "format": 1,
+    "source": "15-1.mp3",
+    "start": 16.777,
+    "end": 21.642,
+    "transcript": "小区里有很多树，孩子们放学后就在树下做游戏。",
+    "answer": "C"
+  },
+  {
+    "lesson": 15,
+    "question": 2,
+    "format": 1,
+    "source": "15-5.mp3",
+    "start": 19.1,
+    "end": 23.218,
+    "transcript": "因为河水看起来是黄色的，所以叫这个名字。",
+    "answer": "B"
+  },
+  {
+    "lesson": 15,
+    "question": 3,
+    "format": 2,
+    "source": "15-1.mp3",
+    "start": 12.994,
+    "end": 15.025,
+    "transcript": "平时孩子们在哪儿玩？",
+    "answer": "B"
+  },
+  {
+    "lesson": 15,
+    "question": 4,
+    "format": 2,
+    "source": "15-3.mp3",
+    "start": 14.112,
+    "end": 16.156,
+    "transcript": "你快给我介绍一下南京吧。",
+    "answer": "B"
+  },
+  {
+    "lesson": 15,
+    "question": 5,
+    "format": 3,
+    "source": "15-1.mp3",
+    "start": 38.995,
+    "end": 39.872,
+    "transcript": "真不错！",
+    "answer": "A"
+  },
+  {
+    "lesson": 15,
+    "question": 6,
+    "format": 3,
+    "source": "15-5.mp3",
+    "start": 9.594,
+    "end": 12.464,
+    "transcript": "我知道，是黄河！",
+    "answer": "A"
+  },
+  {
+    "lesson": 15,
+    "question": 7,
+    "format": 4,
+    "source": "15-1.mp3",
+    "start": 25.26,
+    "end": 30.31,
+    "transcript": "我想买一个大房子，让我爸妈过来跟我一起住。",
+    "answer": "C"
+  },
+  {
+    "lesson": 15,
+    "question": 8,
+    "format": 4,
+    "source": "15-3.mp3",
+    "start": 37.613,
+    "end": 42.108,
+    "transcript": "行，下班后我请你吃晚饭，咱们边吃边聊。",
+    "answer": "B"
+  },
+  {
+    "lesson": 15,
+    "question": 9,
+    "format": 5,
+    "source": "15-3.mp3",
+    "start": 0,
+    "end": 42.985067,
+    "transcript": "假期我想去南京旅游，但是我不太了解那里。\n我虽然不是南京人，可是我是在南京上的大学，可以说是半个南京人。\n太好了！你快给我介绍一下南京吧。\n南京有两千年以上的历史，有老城、老街，还有很多有名的景点，每年去旅游的游客特别多。\n除了这些以外，你再告诉我一些外地人不知道的地方。\n那太多了，我得一点儿一点儿给您讲。\n行，下班后我请你吃晚饭，咱们边吃边聊。",
+    "answer": "B"
+  },
+  {
+    "lesson": 15,
+    "question": 10,
+    "format": 5,
+    "source": "15-7.mp3",
+    "start": 0,
+    "end": 45.773756,
+    "transcript": "我小时候住在北京的西北边，有一条非常有名的河经过那里。我家就住在河边。那里有高高的大树和绿绿的草地。春天，河边的花都开了，看起来特别漂亮。还记得小时候，一到夏天我就去河里游泳。长大以后，遇到什么不开心的事情，我就去河边的树下坐着，听听鸟叫，看看河水，跟遇见的朋友聊聊天儿，难过的事情不一会儿就忘了。那是我最喜欢的地方。",
+    "answer": "A"
+  },
+  {
+    "lesson": 16,
+    "question": 1,
+    "format": 1,
+    "source": "16-1.mp3",
+    "start": 0.736,
+    "end": 2.981,
+    "transcript": "这只小猫你们养了多久了？",
+    "answer": "C"
+  },
+  {
+    "lesson": 16,
+    "question": 2,
+    "format": 1,
+    "source": "16-5.mp3",
+    "start": 0.624,
+    "end": 5.53,
+    "transcript": "这只大熊猫一会儿爬上去，一会儿跳下来，可爱极了！",
+    "answer": "A"
+  },
+  {
+    "lesson": 16,
+    "question": 3,
+    "format": 2,
+    "source": "16-1.mp3",
+    "start": 0.736,
+    "end": 2.981,
+    "transcript": "这只小猫你们养了多久了？",
+    "answer": "B"
+  },
+  {
+    "lesson": 16,
+    "question": 4,
+    "format": 2,
+    "source": "16-3.mp3",
+    "start": 25.858,
+    "end": 28.367,
+    "transcript": "大熊猫为什么是中国的国宝？",
+    "answer": "A"
+  },
+  {
+    "lesson": 16,
+    "question": 5,
+    "format": 3,
+    "source": "16-1.mp3",
+    "start": 11.621,
+    "end": 14.511,
+    "transcript": "现在它变得又干净又漂亮了。",
+    "answer": "A"
+  },
+  {
+    "lesson": 16,
+    "question": 6,
+    "format": 3,
+    "source": "16-5.mp3",
+    "start": 32.166,
+    "end": 34.476,
+    "transcript": "大熊猫的生活真舒服啊！",
+    "answer": "A"
+  },
+  {
+    "lesson": 16,
+    "question": 7,
+    "format": 4,
+    "source": "16-1.mp3",
+    "start": 39.099,
+    "end": 45.95,
+    "transcript": "咱们没时间照顾，还是别养了，我周末带你们去北京动物园看动物吧。",
+    "answer": "B"
+  },
+  {
+    "lesson": 16,
+    "question": 8,
+    "format": 4,
+    "source": "16-5.mp3",
+    "start": 12.099,
+    "end": 16.465,
+    "transcript": "它身边那只熊猫半天没动，是不是在睡觉呢？",
+    "answer": "B"
+  },
+  {
+    "lesson": 16,
+    "question": 9,
+    "format": 5,
+    "source": "16-3.mp3",
+    "start": 0,
+    "end": 51.116567,
+    "transcript": "妈妈，大熊猫这个名字很奇怪，它们跟猫有什么关系？\n这个问题问得好，它们跟猫没什么关系，其实应该叫大猫熊。\n大熊猫为什么只吃竹子不吃肉？\n它们跟人一样，也可以吃肉，但是对肉不感兴趣。\n大熊猫为什么是中国的国宝？\n全世界只有中国有野生大熊猫，中国是大熊猫的家。\n我听说有的熊猫出国了，他们去哪儿了？\n关于这个问题，我得慢慢给你讲。\n弟弟，你真是“十万个为什么”。",
+    "answer": "A"
+  },
+  {
+    "lesson": 16,
+    "question": 10,
+    "format": 5,
+    "source": "16-7.mp3",
+    "start": 0,
+    "end": 45.539189,
+    "transcript": "今天我带小雪和小明去动物园玩了。北京动物园是中国很有名的动物园，里面有非常多的动物，当然，大人和孩子最喜爱的还是大熊猫。每天有很多游客去熊猫馆，他们带着相机去给可爱的大熊猫拍照。动物园早上七点半开门，晚上七点关门，冬天比夏天游客少，所以也比平时早关门一个小时。如果第一次来北京旅游，跟家人一起去北京动物园是个不错的选择。",
+    "answer": "C"
+  },
+  {
+    "lesson": 17,
+    "question": 1,
+    "format": 1,
+    "source": "17-1.mp3",
+    "start": 6.431,
+    "end": 11.697,
+    "transcript": "你进去吧，我在楼梯那儿等你。我害怕见李老师。",
+    "answer": "B"
+  },
+  {
+    "lesson": 17,
+    "question": 2,
+    "format": 1,
+    "source": "17-3.mp3",
+    "start": 32.69,
+    "end": 38.5,
+    "transcript": "你不是喜欢玩电脑吗？你可以去看看跟电脑有关系的书。",
+    "answer": "A"
+  },
+  {
+    "lesson": 17,
+    "question": 3,
+    "format": 2,
+    "source": "17-5.mp3",
+    "start": 5.195,
+    "end": 6.796,
+    "transcript": "你找我有事吗？",
+    "answer": "B"
+  },
+  {
+    "lesson": 17,
+    "question": 4,
+    "format": 2,
+    "source": "17-3.mp3",
+    "start": 32.69,
+    "end": 34.77,
+    "transcript": "你不是喜欢玩电脑吗？",
+    "answer": "A"
+  },
+  {
+    "lesson": 17,
+    "question": 5,
+    "format": 3,
+    "source": "17-3.mp3",
+    "start": 8.184,
+    "end": 11.481,
+    "transcript": "这有什么奇怪的？我是来学习的。",
+    "answer": "B"
+  },
+  {
+    "lesson": 17,
+    "question": 6,
+    "format": 3,
+    "source": "17-5.mp3",
+    "start": 30.727,
+    "end": 33.272,
+    "transcript": "好，那我上网查一查。",
+    "answer": "C"
+  },
+  {
+    "lesson": 17,
+    "question": 7,
+    "format": 4,
+    "source": "17-1.mp3",
+    "start": 26.89,
+    "end": 34.04,
+    "transcript": "我把简单的事情做错了，李老师一定觉得我不认真。",
+    "answer": "A"
+  },
+  {
+    "lesson": 17,
+    "question": 8,
+    "format": 4,
+    "source": "17-5.mp3",
+    "start": 34.443,
+    "end": 36.791,
+    "transcript": "我给你介绍几个有用的网站。",
+    "answer": "C"
+  },
+  {
+    "lesson": 17,
+    "question": 9,
+    "format": 5,
+    "source": "17-3.mp3",
+    "start": 0,
+    "end": 48.38,
+    "transcript": "太阳从西边出来了？这几天怎么总是在图书馆看见你？\n这有什么奇怪的？我是来学习的。\n你怎么还来图书馆学习？同学们都在到处找工作呢。\n我不想现在就工作，还想继续学习，我爸妈也同意。可我还没想好学什么，所以来图书馆看看。\n你不是喜欢玩电脑吗？你可以去看看跟电脑有关系的书。\n你说得对，我记得那个屋子里有些跟电脑有关的书，我去找找。",
+    "answer": "A"
+  },
+  {
+    "lesson": 17,
+    "question": 10,
+    "format": 5,
+    "source": "17-7.mp3",
+    "start": 0,
+    "end": 42.724438,
+    "transcript": "大学生活马上就要结束了，我最近经常被问到一个问题——“你以后想做什么”，这个问题真不容易回答。我也问了几个同学，大家选择的方向都不同。有的想继续在学校学习，有的打算出国留学，还有的决定先找工作。我认为只有想清楚自己真正喜欢什么，才能做出最合适的选择。对我来说，想清楚“真正喜欢什么”是个难题。",
+    "answer": "C"
+  },
+  {
+    "lesson": 18,
+    "question": 1,
+    "format": 1,
+    "source": "18-1.mp3",
+    "start": 22.633,
+    "end": 30.144,
+    "transcript": "我们家会一边包饺子，一边看春节联欢晚会，一直到十二点以后才睡觉。",
+    "answer": "C"
+  },
+  {
+    "lesson": 18,
+    "question": 2,
+    "format": 1,
+    "source": "18-3.mp3",
+    "start": 22.174,
+    "end": 28.312,
+    "transcript": "桌子上有饮料，还有矿泉水，你想喝什么就自己拿。",
+    "answer": "B"
+  },
+  {
+    "lesson": 18,
+    "question": 3,
+    "format": 2,
+    "source": "18-1.mp3",
+    "start": 33.0,
+    "end": 35.207,
+    "transcript": "春节放几天假？",
+    "answer": "B"
+  },
+  {
+    "lesson": 18,
+    "question": 4,
+    "format": 2,
+    "source": "18-3.mp3",
+    "start": 3.531,
+    "end": 6.149,
+    "transcript": "这是我准备的礼物，请收下。",
+    "answer": "B"
+  },
+  {
+    "lesson": 18,
+    "question": 5,
+    "format": 3,
+    "source": "18-1.mp3",
+    "start": 35.885,
+    "end": 37.276,
+    "transcript": "大概七八天。",
+    "answer": "B"
+  },
+  {
+    "lesson": 18,
+    "question": 6,
+    "format": 3,
+    "source": "18-3.mp3",
+    "start": 38.192,
+    "end": 39.802,
+    "transcript": "我跟你们一起包吧。",
+    "answer": "B"
+  },
+  {
+    "lesson": 18,
+    "question": 7,
+    "format": 4,
+    "source": "18-1.mp3",
+    "start": 11.509,
+    "end": 18.179,
+    "transcript": "春节是中国最重要的节日，我们一般会回家，跟家人一起过。",
+    "answer": "A"
+  },
+  {
+    "lesson": 18,
+    "question": 8,
+    "format": 4,
+    "source": "18-5.mp3",
+    "start": 32.716,
+    "end": 34.87,
+    "transcript": "他很快就会回来了。",
+    "answer": "C"
+  },
+  {
+    "lesson": 18,
+    "question": 9,
+    "format": 5,
+    "source": "18-1.mp3",
+    "start": 0,
+    "end": 37.824689,
+    "transcript": "我要在中国过年，真开心。\n第一次请外国朋友来家里过春节，我也很高兴。\n你们怎样过节？\n春节是中国最重要的节日，我们一般会回家，跟家人一起过。\n那你跟家人会一起做什么？\n我们家会一边包饺子，一边看春节联欢晚会，一直到十二点以后才睡觉。\n听起来很有意思。春节放几天假？\n大概七八天。",
+    "answer": "A"
+  },
+  {
+    "lesson": 18,
+    "question": 10,
+    "format": 5,
+    "source": "18-7.mp3",
+    "start": 0,
+    "end": 35.739689,
+    "transcript": "这次来中国，我最高兴的是认识了李文的父母。他们给我看了李文出生时的照片，还给我讲了很多他过去的故事。李文高中的时候想学医，从那时起就努力学习。高三的时候，因为成绩特别好，他得到了出国学习的机会。在他身上，我懂得了，只要一直坚持，就能完成自己的目标。我相信，他以后一定会发展得更好。",
+    "answer": "A"
+  }
+]

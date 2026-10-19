@@ -1,0 +1,1306 @@
+{
+  "lessons": [
+    {
+      "lesson": 1,
+      "originalQuestions": 108,
+      "newListening": 10,
+      "formats": 5,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "correctGrading": 10,
+      "pinyinModes": true,
+      "reset": true,
+      "noMobileOverflow": true
+    },
+    {
+      "lesson": 2,
+      "originalQuestions": 109,
+      "newListening": 10,
+      "formats": 5,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "correctGrading": 10,
+      "pinyinModes": true,
+      "reset": true,
+      "noMobileOverflow": true
+    },
+    {
+      "lesson": 3,
+      "originalQuestions": 121,
+      "newListening": 10,
+      "formats": 5,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "correctGrading": 10,
+      "pinyinModes": true,
+      "reset": true,
+      "noMobileOverflow": true
+    },
+    {
+      "lesson": 4,
+      "originalQuestions": 120,
+      "newListening": 10,
+      "formats": 5,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "correctGrading": 10,
+      "pinyinModes": true,
+      "reset": true,
+      "noMobileOverflow": true
+    },
+    {
+      "lesson": 5,
+      "originalQuestions": 129,
+      "newListening": 10,
+      "formats": 5,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "correctGrading": 10,
+      "pinyinModes": true,
+      "reset": true,
+      "noMobileOverflow": true
+    },
+    {
+      "lesson": 6,
+      "originalQuestions": 117,
+      "newListening": 10,
+      "formats": 5,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "correctGrading": 10,
+      "pinyinModes": true,
+      "reset": true,
+      "noMobileOverflow": true
+    },
+    {
+      "lesson": 7,
+      "originalQuestions": 127,
+      "newListening": 10,
+      "formats": 5,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "correctGrading": 10,
+      "pinyinModes": true,
+      "reset": true,
+      "noMobileOverflow": true
+    },
+    {
+      "lesson": 8,
+      "originalQuestions": 128,
+      "newListening": 10,
+      "formats": 5,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "correctGrading": 10,
+      "pinyinModes": true,
+      "reset": true,
+      "noMobileOverflow": true
+    },
+    {
+      "lesson": 9,
+      "originalQuestions": 118,
+      "newListening": 10,
+      "formats": 5,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "correctGrading": 10,
+      "pinyinModes": true,
+      "reset": true,
+      "noMobileOverflow": true
+    },
+    {
+      "lesson": 10,
+      "originalQuestions": 118,
+      "newListening": 10,
+      "formats": 5,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "correctGrading": 10,
+      "pinyinModes": true,
+      "reset": true,
+      "noMobileOverflow": true
+    },
+    {
+      "lesson": 11,
+      "originalQuestions": 128,
+      "newListening": 10,
+      "formats": 5,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "correctGrading": 10,
+      "pinyinModes": true,
+      "reset": true,
+      "noMobileOverflow": true
+    },
+    {
+      "lesson": 12,
+      "originalQuestions": 129,
+      "newListening": 10,
+      "formats": 5,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "correctGrading": 10,
+      "pinyinModes": true,
+      "reset": true,
+      "noMobileOverflow": true
+    },
+    {
+      "lesson": 13,
+      "originalQuestions": 115,
+      "newListening": 10,
+      "formats": 5,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "correctGrading": 10,
+      "pinyinModes": true,
+      "reset": true,
+      "noMobileOverflow": true
+    },
+    {
+      "lesson": 14,
+      "originalQuestions": 115,
+      "newListening": 10,
+      "formats": 5,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "correctGrading": 10,
+      "pinyinModes": true,
+      "reset": true,
+      "noMobileOverflow": true
+    },
+    {
+      "lesson": 15,
+      "originalQuestions": 122,
+      "newListening": 10,
+      "formats": 5,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "correctGrading": 10,
+      "pinyinModes": true,
+      "reset": true,
+      "noMobileOverflow": true
+    },
+    {
+      "lesson": 16,
+      "originalQuestions": 122,
+      "newListening": 10,
+      "formats": 5,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "correctGrading": 10,
+      "pinyinModes": true,
+      "reset": true,
+      "noMobileOverflow": true
+    },
+    {
+      "lesson": 17,
+      "originalQuestions": 124,
+      "newListening": 10,
+      "formats": 5,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "correctGrading": 10,
+      "pinyinModes": true,
+      "reset": true,
+      "noMobileOverflow": true
+    },
+    {
+      "lesson": 18,
+      "originalQuestions": 127,
+      "newListening": 10,
+      "formats": 5,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "correctGrading": 10,
+      "pinyinModes": true,
+      "reset": true,
+      "noMobileOverflow": true
+    }
+  ],
+  "errors": [],
+  "wrongAnswerGrading": true,
+  "keyboardSelection": true,
+  "audioPlayback": true,
+  "speedChange": true,
+  "oneAudioAtATime": true,
+  "responsive": [
+    375,
+    768,
+    1024,
+    1440
+  ],
+  "originalQuestionsPreserved": 2177,
+  "newListeningQuestions": 180,
+  "totalQuestions": 2357,
+  "newPictureChoices": 108,
+  "originalAssetsPreserved": true,
+  "originalStylesPreserved": true,
+  "audioCutVerification": {
+    "verifiedClips": 144,
+    "expectedClips": 144,
+    "method": "Original book dialogue plus full-track ASR; actual silence-boundary refinement; independent recognition of each rendered cut; negation check; source-context review for ASR substitutions.",
+    "negationCheckPassed": true,
+    "resolvedRecognizerSubstitutions": [
+      {
+        "lesson": 6,
+        "question": 4,
+        "sha256": "65edcea05524be1059782532d485ff5926231a8821a116151e018ac6a4d8083a",
+        "similarity": 0.8,
+        "negationRetained": true,
+        "expected": "去哪里检票？",
+        "recognizerText": "去哪裡點票?",
+        "resolution": "ASR đoạn ngắn nhận 检票 thành 点票. Lời thoại gốc ghi 去哪里检票; ASR toàn file 6-5.mp3 nhận 减票, đồng âm với 检票. Đoạn cắt có đủ câu hỏi, không mất từ. Giữ audio gốc và chữ Hán chuẩn trong giáo trình.",
+        "sourceRecognizerText": "李文,我的耳机没电了,你有充电宝吗?有,这些常用的东西我都放在包里了,我给你拿。前面的人越来越多。对,马上就进高铁站了,咱们一起走,别分开。好,你检查一下高铁票都拿好了吗不用拿票刷户罩就能减票进站去哪里减票减票口在二层我们一会儿坐电梯上去"
+      },
+      {
+        "lesson": 6,
+        "question": 7,
+        "sha256": "5168c46024cef5311f6ff413b3d48dcc210d16339d13451e78aa7d62b2e4f0f2",
+        "similarity": 0.692,
+        "negationRetained": true,
+        "expected": "不用拿票，刷护照就能检票进站。",
+        "recognizerText": "不用拿票,刷户罩就能减票近站。",
+        "resolution": "ASR ghi các chữ đồng âm 户罩 / 减票 / 近站 thay cho 护照 / 检票 / 进站. Lời thoại gốc và ngữ cảnh kiểm soát vé xác nhận cách viết 护照、检票进站. Audio giữ nguyên, không thiếu phần lời nói.",
+        "sourceRecognizerText": "李文,我的耳机没电了,你有充电宝吗?有,这些常用的东西我都放在包里了,我给你拿。前面的人越来越多。对,马上就进高铁站了,咱们一起走,别分开。好,你检查一下高铁票都拿好了吗不用拿票刷户罩就能减票进站去哪里减票减票口在二层我们一会儿坐电梯上去"
+      },
+      {
+        "lesson": 6,
+        "question": 8,
+        "sha256": "5ba2949fa317afe50d2b765da0a52d129ce2ec5ed40bd8ea6e06372d62f181f2",
+        "similarity": 0.857,
+        "negationRetained": true,
+        "expected": "我一急就走错了。",
+        "recognizerText": "我一起就走错了。",
+        "resolution": "ASR đoạn ngắn thay 一急 bằng 一起; bản nhận dạng toàn file 6-3.mp3 và lời thoại giáo trình đều ghi 我一急就走错了. Không mất âm đầu hoặc cuối; giữ audio và chữ 急 theo nguồn.",
+        "sourceRecognizerText": "過了前面的路口就到高鐵站了我看見了,馬上就到了這條路車很多,您小心點好,你們還有一個小時,應該不會遲到的我發現這條路車多紅綠燈也多是啊,這條路我走過一次,后来再也不走了那您今天为什么走了这条路?我一急就走错了,如果没走错,20分钟以前就到了"
+      },
+      {
+        "lesson": 7,
+        "question": 5,
+        "sha256": "1e57e7e2a68ab52a2ce09a49e12940d66b4d47bcef1239ab35654322d375a90b",
+        "similarity": 0.818,
+        "negationRetained": true,
+        "expected": "商场不远，咱们可以走着去。",
+        "recognizerText": "生厂不远,咱们可以走着去。",
+        "resolution": "ASR nhận 商场 thành 生厂; bản nhận dạng toàn file ghi 生场. Lời thoại giáo trình và câu trước nói rõ cửa hàng xe đạp trong 商场. Hai cách viết ASR không phù hợp ngữ cảnh; giữ audio gốc và phiên âm của 商场.",
+        "sourceRecognizerText": "這輛自行車是小雪八歲的時候買的,看起來有點舊了。是啊,它現在長高了,這輛車已經太矮了。商場裡開了一家自行車店,咱們給它買一輛新的吧。好,咱們帶小雪一起去,让她试一下。那今天就去吧,我也想再看看衣服,咱们怎么去?生场不远,咱们可以走着去。"
+      }
+    ],
+    "unresolved": [],
+    "clips": [
+      {
+        "lesson": 1,
+        "question": 1,
+        "sha256": "8352c0ef2db43f340a981b270d76bab8d7c1d855b80e11d88f1bf176d406410e",
+        "similarity": 0.952,
+        "negationRetained": true
+      },
+      {
+        "lesson": 1,
+        "question": 2,
+        "sha256": "2e656aa022731d54ebc220f55cb903b7bb7b097bcfe5b05b8a72f204bbdc79b0",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 1,
+        "question": 3,
+        "sha256": "7a70adf4c3463315109e5f30fcbb2927edb2878adc6aa3ecf89ddb36cb03427d",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 1,
+        "question": 4,
+        "sha256": "2387f211a89ca516775d98a9a2d79cb9edf614ee93ce393d70e8cd3083af5e10",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 1,
+        "question": 5,
+        "sha256": "05fd723b52d8c027d31c6ff26830c049289c4544797fbe4e40f6bc0c0e2ddc6e",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 1,
+        "question": 6,
+        "sha256": "7a70adf4c3463315109e5f30fcbb2927edb2878adc6aa3ecf89ddb36cb03427d",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 1,
+        "question": 7,
+        "sha256": "4dc4d82f2a70b60c144795055fabb0b1612be59b011f555eceb652de0d342c1d",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 1,
+        "question": 8,
+        "sha256": "b1f03e37e5086fe6530681373c5854f8afb257e781159df66b383740c538d5fa",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 2,
+        "question": 1,
+        "sha256": "dea90087139113f86287e02db334394a8ca5931f93b87a0a89b7996313abc6ec",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 2,
+        "question": 2,
+        "sha256": "13b35536e1090aa3b6865e07a30b09a97adaecaae843d3a07392803ff26f3885",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 2,
+        "question": 3,
+        "sha256": "9e1283c52416a9e5d8d82f34512c555526d20feffff0a3858d95aab6483db60e",
+        "similarity": 0.966,
+        "negationRetained": true
+      },
+      {
+        "lesson": 2,
+        "question": 4,
+        "sha256": "38a645b3d6894441aa497acdabbb30aae865f861f03cb6f474b231cf6274ccfa",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 2,
+        "question": 5,
+        "sha256": "394f30d28740e95de5e7fc0dc3fc404725b6c4b31b5d8fb43f3fc584e14be585",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 2,
+        "question": 6,
+        "sha256": "230729f59695260faf71422ce94e5afe6b7a1745f1a6a01fb688ad4f34324f98",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 2,
+        "question": 7,
+        "sha256": "49dc66d7cec222f5c3db0f6723be41cddfaeca004616ea1b2c159cfbfcbaa99a",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 2,
+        "question": 8,
+        "sha256": "7b29aeb14f7c209e4dd48591c85c218157a45bc7cdaf186f93e10822c027c887",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 3,
+        "question": 1,
+        "sha256": "733d2548f81cb6bf83898fb7dac7c106619445ad615831acebed8c14b639df26",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 3,
+        "question": 2,
+        "sha256": "bf5c8545c659a5470d478d68771e4b65384a7f4b6c6b9d231dbe3548ac3ba310",
+        "similarity": 0.95,
+        "negationRetained": true
+      },
+      {
+        "lesson": 3,
+        "question": 3,
+        "sha256": "9215b9aa1267aaa1697f563786cde3abdd944c1d5d73cf491e89a3fe5c1cc71c",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 3,
+        "question": 4,
+        "sha256": "4580c4d10f9d66accd3d2ed5bc267ba7f77871cb77a3565db2b9a34c758d1dee",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 3,
+        "question": 5,
+        "sha256": "d0b76a7592d3a50bff0dbbf495364b70d8066afe594c73ba24112eddf1182435",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 3,
+        "question": 6,
+        "sha256": "6e41569af1c7fc42acb041a2dd3f16ff0c2fcab9ab77ecd1670eaec148d5c902",
+        "similarity": 0.923,
+        "negationRetained": true
+      },
+      {
+        "lesson": 3,
+        "question": 7,
+        "sha256": "401922d6db3d87f60c0391c36d284cc29e80bbd70cb71230efdd4f1d390b2e9d",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 3,
+        "question": 8,
+        "sha256": "9eaf2080ecc81358ef498064a516648de83ad3862f951429bdc7ab5ca190b65a",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 4,
+        "question": 1,
+        "sha256": "3a8878cb4b988983b389bc2bb6eb0cb744a8fa1a2ac42f411db27d29c5ed300a",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 4,
+        "question": 2,
+        "sha256": "7e63035a7748421ceccfd20e6e8a21119e78e387bc303fcb470532d547e79586",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 4,
+        "question": 3,
+        "sha256": "61793a91df2f77eeee580d69814a11f89a394ac74a4b89dc8306db7d112c39ff",
+        "similarity": 0.917,
+        "negationRetained": true
+      },
+      {
+        "lesson": 4,
+        "question": 4,
+        "sha256": "800690d53504d3b460255be47ef5791fcde08447d8fe4cd5c2013811387bf5b9",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 4,
+        "question": 5,
+        "sha256": "ff8c3e06a2c08a9bd343e673d25df28adcc7e4eb02f40acd9b24f02ac3ddef5b",
+        "similarity": 0.941,
+        "negationRetained": true
+      },
+      {
+        "lesson": 4,
+        "question": 6,
+        "sha256": "1ec7ac1a219be67135f89b76c4aec34af4c49b5611a593565d3d558e83001b28",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 4,
+        "question": 7,
+        "sha256": "169daaf7c4a765068734f4e953d73529919cc6dd75e5347c9686fa2a1695f64f",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 4,
+        "question": 8,
+        "sha256": "a94995a46ba0d25780d189ddb0c451a32fe39b2b8c3ec8a61882c8c406279569",
+        "similarity": 0.875,
+        "negationRetained": true
+      },
+      {
+        "lesson": 5,
+        "question": 1,
+        "sha256": "cb71ff53a827fe045552cd90bf67493a8cef6e1477ea9352a559b8a805af2eef",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 5,
+        "question": 2,
+        "sha256": "6b0cc421fa473da52cc28cac9da86f75de3cce436ce0efea5d718af329a7cd23",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 5,
+        "question": 3,
+        "sha256": "38bf6ea8d0e05532692e7aaf4fd6097dbc9cc70f5a7b76cd19361c4690028028",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 5,
+        "question": 4,
+        "sha256": "e2396781732eba3b920d6a0358bdb2b1ffaf21bb826a6b3f84525765fd27de67",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 5,
+        "question": 5,
+        "sha256": "e469d617ec1d2f60e17f15c8d5bc44a003bd46d21da21792382a63d28ff7399e",
+        "similarity": 0.929,
+        "negationRetained": true
+      },
+      {
+        "lesson": 5,
+        "question": 6,
+        "sha256": "e8df47a9dcf730b7fc8b261399b5f3e60a33a51f16a60b81e57dfa2f31aa7feb",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 5,
+        "question": 7,
+        "sha256": "d937a4608572c87250076ab308bf2ac6175c4632bc6115ffcaee16da9840da1e",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 5,
+        "question": 8,
+        "sha256": "325c77d311fe301be4764307796db7d9ce29d41e2e7058660d78688d9a6499d9",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 6,
+        "question": 1,
+        "sha256": "41d40b9b1089f136e3f54eecb9bdc074a9fcc7fba8a1249cb795b4e9bfeb09fc",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 6,
+        "question": 2,
+        "sha256": "ce0be0143a6ce662338531444f1fec45c6e185fa2f776190746661a3b7f48ab2",
+        "similarity": 0.938,
+        "negationRetained": true
+      },
+      {
+        "lesson": 6,
+        "question": 3,
+        "sha256": "5a604d9fc35b971c1db40467d3780903418c6f71a814c8b3cf08e67d8d6a8107",
+        "similarity": 0.933,
+        "negationRetained": true
+      },
+      {
+        "lesson": 6,
+        "question": 4,
+        "sha256": "65edcea05524be1059782532d485ff5926231a8821a116151e018ac6a4d8083a",
+        "similarity": 0.8,
+        "negationRetained": true
+      },
+      {
+        "lesson": 6,
+        "question": 5,
+        "sha256": "3e1a4818d1098275a68b432963d03ad6cda987c8db6362304a6cbc459da66352",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 6,
+        "question": 6,
+        "sha256": "3ef79957d4e5d4a59eb745369c26a8754ce63031833be5926adcc9e79658ccf3",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 6,
+        "question": 7,
+        "sha256": "5168c46024cef5311f6ff413b3d48dcc210d16339d13451e78aa7d62b2e4f0f2",
+        "similarity": 0.692,
+        "negationRetained": true
+      },
+      {
+        "lesson": 6,
+        "question": 8,
+        "sha256": "5ba2949fa317afe50d2b765da0a52d129ce2ec5ed40bd8ea6e06372d62f181f2",
+        "similarity": 0.857,
+        "negationRetained": true
+      },
+      {
+        "lesson": 7,
+        "question": 1,
+        "sha256": "bf8aea4b6c34c1d7a9cff66002da18461fbdd462ee7eb2be9f0bb5f2817404a6",
+        "similarity": 0.952,
+        "negationRetained": true
+      },
+      {
+        "lesson": 7,
+        "question": 2,
+        "sha256": "12a6c4b212c28e705a905b4d6c6deaf1e432e0b613ca2adac17ef07c98ea9b9e",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 7,
+        "question": 3,
+        "sha256": "edf1372472983bf3a8a220cc4f8d92de9620ec8e31d3e8044fb10ecdc5b994bc",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 7,
+        "question": 4,
+        "sha256": "cbc7f8e2ceb1fdd2271769c86c83730d36a399b654baf6e4e5d2f0ddc5a1ac4c",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 7,
+        "question": 5,
+        "sha256": "1e57e7e2a68ab52a2ce09a49e12940d66b4d47bcef1239ab35654322d375a90b",
+        "similarity": 0.818,
+        "negationRetained": true
+      },
+      {
+        "lesson": 7,
+        "question": 6,
+        "sha256": "f67e5e36e718798968ecb477469cd544e5f12613c0a329ddd5f283f826021c73",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 7,
+        "question": 7,
+        "sha256": "e3224e4a99f7deec1a42ca3bc2b79bc3e32f6414d2ccaded9c5dcdbbcbd3e6b8",
+        "similarity": 0.929,
+        "negationRetained": true
+      },
+      {
+        "lesson": 7,
+        "question": 8,
+        "sha256": "71a9e29821499bc5d75d246e00c31362d92e32cdb77c4a4554d6e9bc0908601a",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 8,
+        "question": 1,
+        "sha256": "672654f3b9cad1517e46eca7ecfc662b8cfe2f30b20fd1cb87279a7d8feabbc8",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 8,
+        "question": 2,
+        "sha256": "48d829507016daf54a8137a57644dcb22fdf21ad443e61990ac62990c59ae047",
+        "similarity": 0.966,
+        "negationRetained": true
+      },
+      {
+        "lesson": 8,
+        "question": 3,
+        "sha256": "e7d98fd59e7cf43441a1544fcde7268ed853d708bf320341dd6f0b87d81dc655",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 8,
+        "question": 4,
+        "sha256": "5eeaa29bdab5426ba24f56ccf28265e976d7bbe451373ddb090957d1d5acf11c",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 8,
+        "question": 5,
+        "sha256": "22b78176ff94b110d663c49492de73c3769972da69937bec5aec7bee6113e9de",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 8,
+        "question": 6,
+        "sha256": "a2e3e33cf53ebf17136173da41fdf36bf1bdfa0aa33afb98891ab19ba3f6a04f",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 8,
+        "question": 7,
+        "sha256": "62a2315113cac69e644e823245e9c51998b1aea52e818beedc4252521eb52f1f",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 8,
+        "question": 8,
+        "sha256": "0db4c940235de79fec9dd1ed9f1e59223266b80df2a6743845c8ac16fe11e633",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 9,
+        "question": 1,
+        "sha256": "f3d9352997a0f97d7facece9249f3a1d31753e013cab837ba7533166c915c97b",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 9,
+        "question": 2,
+        "sha256": "cc6815af37ce7ac8033d83a04656293c60ad70fb860d15eef1f1681cde3050c6",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 9,
+        "question": 3,
+        "sha256": "2b569711dbf7aa926104f53e0c9eb3b248bbdd89ddeb0044414e9ecf3a66912e",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 9,
+        "question": 4,
+        "sha256": "5358c23c54329c6d45f8e3e9c5bf2d3ecb3b754f0c915ce8c887ca07e2526579",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 9,
+        "question": 5,
+        "sha256": "9df4f1f17b2e9487efcfb314475f20e39f66fd3945e203493cebe87722d072be",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 9,
+        "question": 6,
+        "sha256": "9c402e2ae2de41d53ba16b59318d62269221bc0276f8cd5ae1612008ad1a09ef",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 9,
+        "question": 7,
+        "sha256": "39d3762f6d9c66538e342a66b6ef15b7bbdc97633795d37e3cd9bc4c20f973e6",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 9,
+        "question": 8,
+        "sha256": "5bd4dd6141b3c0fa919dd5991400c0e0cf41c2942df7f586f00598f46aefcd59",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 10,
+        "question": 1,
+        "sha256": "635f6ddca7c32b5c8c018117d8130cbef25035b9c7fa2bf6ffe53319946861c4",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 10,
+        "question": 2,
+        "sha256": "86c62b51c5da96009a55d68fdcd18dd1302e441f6b6930dca665375c247499e0",
+        "similarity": 0.95,
+        "negationRetained": true
+      },
+      {
+        "lesson": 10,
+        "question": 3,
+        "sha256": "cde1043e24c9b2dc2c4100fee731b206955ddf94f4f5bc82c3927672b465ff6b",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 10,
+        "question": 4,
+        "sha256": "19ae31457dbcc8800db7640663dd1f1175d67a42685482f576359903129545fe",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 10,
+        "question": 5,
+        "sha256": "75d4fbc652d3a999cd6ec58ee6fbb05b9925bb170ac680c4f151d8129036c1ef",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 10,
+        "question": 6,
+        "sha256": "b1d11df63c8054fbc2e8b875761cb74b3342de2eec556a447cad6d077fa4f592",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 10,
+        "question": 7,
+        "sha256": "8ffb35350572fc1e0168c86cb78874a5a3ad6ec66bea0656880c9b14e6331f1d",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 10,
+        "question": 8,
+        "sha256": "bd585267bcac3d23fe6516e07b86940e86a211808b826251651978283e943286",
+        "similarity": 0.909,
+        "negationRetained": true
+      },
+      {
+        "lesson": 11,
+        "question": 1,
+        "sha256": "428d78fc7e983cfdcfc8fa4d34650abe9e4c743c9f53e8576f0ac3be8239fc8d",
+        "similarity": 0.958,
+        "negationRetained": true
+      },
+      {
+        "lesson": 11,
+        "question": 2,
+        "sha256": "79a365b0cf267ddcbd2a79449c2d5f2dd6df4c6ba8f1fd2932006769d80fcfc3",
+        "similarity": 0.909,
+        "negationRetained": true
+      },
+      {
+        "lesson": 11,
+        "question": 3,
+        "sha256": "9299008d83461dc6f8e68facad3ad8b48794669159c76fc0422976fd37b5decf",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 11,
+        "question": 4,
+        "sha256": "c813308ba88c1e62ccde3475b72e41f58a1710542f67b5e8d29b1ea82873beac",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 11,
+        "question": 5,
+        "sha256": "0aa3e9f3dd1974f73c0e00babf7247910af15779e6b5f716bfe437a1f18b794b",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 11,
+        "question": 6,
+        "sha256": "e4ae47f3f1d50963c973be81c3cb51f1fa45e4f3458b217d3c10a0c507ac09dd",
+        "similarity": 0.889,
+        "negationRetained": true
+      },
+      {
+        "lesson": 11,
+        "question": 7,
+        "sha256": "cb93682fc01bb1377672e97744a89ab286c5ca6e40356a7c173e17208dc831f3",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 11,
+        "question": 8,
+        "sha256": "fde8ae369b84982ec1a073ba4cdc1e2291f0be8debf0a508261bc3c4cf968a05",
+        "similarity": 0.97,
+        "negationRetained": true
+      },
+      {
+        "lesson": 12,
+        "question": 1,
+        "sha256": "887a6e25b8e0b576b543304904758c263e15a999a027c116084c34169f6eea84",
+        "similarity": 0.941,
+        "negationRetained": true
+      },
+      {
+        "lesson": 12,
+        "question": 2,
+        "sha256": "ed1d88cf9bc6a4018ba75c8059bb973d8d928e64b2ec08b3ef4bda758d6e67c6",
+        "similarity": 0.944,
+        "negationRetained": true
+      },
+      {
+        "lesson": 12,
+        "question": 3,
+        "sha256": "94b69f0e73cbf0745fe18013d4c51bd8e81afd62d3b1fd8311262a002078fea4",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 12,
+        "question": 4,
+        "sha256": "347a6ba05331b5c61051849e2c5f65bfe7a38a2924ac103f6294b8a230b3be7e",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 12,
+        "question": 5,
+        "sha256": "3debf3f7fb9de40a7eebb70bcaeb5495292fbb8ec989796a8244b0c1465988b0",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 12,
+        "question": 6,
+        "sha256": "0c96333988e21db09148bd0a5c4616735553ccc71efafc9399226b7b5248e626",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 12,
+        "question": 7,
+        "sha256": "486505e63fbf67e5893a66579347477f16dcb83496a1c8b59cc69ab58ec5a0bd",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 12,
+        "question": 8,
+        "sha256": "ec8fab2d4faaf11628963b9ce7d54d62fe22f0956d713d0f933c08b193cf5363",
+        "similarity": 0.923,
+        "negationRetained": true
+      },
+      {
+        "lesson": 13,
+        "question": 1,
+        "sha256": "9468e7e8d99f5bba997abbd7727e94480220a1abbc956eb38bc775623ca45095",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 13,
+        "question": 2,
+        "sha256": "aa0c10a01965ade52c4a5b8eb9bd69b856a6712d2e70439355b122a8eb8f8bc8",
+        "similarity": 0.976,
+        "negationRetained": true
+      },
+      {
+        "lesson": 13,
+        "question": 3,
+        "sha256": "1526fcb7da2694ddf996d53bf311eab5a9e9dc60c33430adc009a635104dde86",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 13,
+        "question": 4,
+        "sha256": "afd161d5aa8a8a40f467086f948af8aaf35f840a4b990f17ef73510b486c99a0",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 13,
+        "question": 5,
+        "sha256": "f79e110b4fa016e714609f0c6b1612b900feda3c6e2d3c13a8626c00c7040e89",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 13,
+        "question": 6,
+        "sha256": "33d761f1b32770be7e5c1229125b2c62388e6271cf8b1912c923b0026d97f7a4",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 13,
+        "question": 7,
+        "sha256": "499041664398565f4085435bd9dd4a16e0311aba4b6fa070e709710ae915894c",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 13,
+        "question": 8,
+        "sha256": "fc89c80c8d36e025c481e4b11c1746002d7a7d9363e20b702817a2ab8c3f104b",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 14,
+        "question": 1,
+        "sha256": "e048e3bd935f42aafe9431c07d1951043217f19aac20c904ef9694649bc1eb52",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 14,
+        "question": 2,
+        "sha256": "7084ec560eda6a1760b8dbed81a269480ade4e71c88679427ae11599b9ca588a",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 14,
+        "question": 3,
+        "sha256": "a2e8bb67f0eea52ab76de40c54a7b6d221c27c73c1b22f3bfe1ad33c12d3fc7c",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 14,
+        "question": 4,
+        "sha256": "e2442ed2513c13a2c3a3d881da62d3433301c876cae8e94609beab03ba54152c",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 14,
+        "question": 5,
+        "sha256": "0f2940433eca6357c296b7a3e9005e545ccf9c4232b680288b7cedfd7b609e6a",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 14,
+        "question": 6,
+        "sha256": "8d549111dddb57e7fb484d16f1987582e44983ffc7914ac853cad295a3f9a338",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 14,
+        "question": 7,
+        "sha256": "00782abeea8a8880bb87d09cef51a35a10d359077bee9b635b91d78a5a92b7b3",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 14,
+        "question": 8,
+        "sha256": "1afc873944f29f34e182f674a438424bedf9d16878dc97d7bc32d131877d8c0e",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 15,
+        "question": 1,
+        "sha256": "4d63af01f49b49d3ee2b8d3757eaac6cea67a0edb977026e417814ff0cb86369",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 15,
+        "question": 2,
+        "sha256": "2ad78627a20e3028a8a84c76621a6260b618d0480469e4fb587d26c029a44f25",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 15,
+        "question": 3,
+        "sha256": "293f01355fc7eb67219fc077d03e1171020c2c16909dfc61c868836f546bf424",
+        "similarity": 0.941,
+        "negationRetained": true
+      },
+      {
+        "lesson": 15,
+        "question": 4,
+        "sha256": "34677137420855a6aa72acc527f530b45533713721a84cfe72b4dfada882bb62",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 15,
+        "question": 5,
+        "sha256": "50e2d9181f6a82f0dffc49f7595a1a8613a5ebb71f31151879cda10869dfcef9",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 15,
+        "question": 6,
+        "sha256": "5029412237d022fb80e9d1feea6e4a52113cc08644cdeddb25eef3ab3abe89f9",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 15,
+        "question": 7,
+        "sha256": "029876b631e0ea0608fe067f29a2c3045c78f942766e9fb96e9a1cc0f1da6d5e",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 15,
+        "question": 8,
+        "sha256": "fe1388a0239ebcf4b925298d2cc43ab1117e67ce6c071032321fdd6c61a9e082",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 16,
+        "question": 1,
+        "sha256": "1560747b2e5786fbc53ce673d096661dd2cf9ab16aa7a8177b23a720bc9f8c29",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 16,
+        "question": 2,
+        "sha256": "bf336435d2f77491754dfa6e7a68a71dab33485066a04471bd230e787703f847",
+        "similarity": 0.952,
+        "negationRetained": true
+      },
+      {
+        "lesson": 16,
+        "question": 3,
+        "sha256": "1560747b2e5786fbc53ce673d096661dd2cf9ab16aa7a8177b23a720bc9f8c29",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 16,
+        "question": 4,
+        "sha256": "cfff9d49673bd4a1eaf4dcabbcb7d261922fe6a8071ebc72e5ee5775263a6e74",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 16,
+        "question": 5,
+        "sha256": "79b02591dd94284b42f7c5cc22f3b3573bc940eb8abcc80e2e25b45943c5eb5e",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 16,
+        "question": 6,
+        "sha256": "ba7d7ac2e08656b9e1282193b8f20e2dc6d73aff104f709f257772f0471f3066",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 16,
+        "question": 7,
+        "sha256": "cfca5519ce49a029f5746acb7fe661ccf52c56ddf44d4d3d8243a25964cb007a",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 16,
+        "question": 8,
+        "sha256": "d238f25ee362eafd476126f37309c5c0768e90f0ddcaa015fa2af3670ad253fc",
+        "similarity": 0.944,
+        "negationRetained": true
+      },
+      {
+        "lesson": 17,
+        "question": 1,
+        "sha256": "70290ed0d02d49609e3a3a95341d2b8fb7aca42315c754702ecdb09e832df6f1",
+        "similarity": 0.973,
+        "negationRetained": true
+      },
+      {
+        "lesson": 17,
+        "question": 2,
+        "sha256": "15c33d6923b9588dd070183ae28c93aae6aa70cc155ff7c4b38dba6b09231310",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 17,
+        "question": 3,
+        "sha256": "99779c85cce9aa6b1afb6a481a5da7beef6e763d4e84fd934fc17865cab15c14",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 17,
+        "question": 4,
+        "sha256": "98b2afe0603afe59bfedda577fb915822721b202e330def642b25ba8e58b02e3",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 17,
+        "question": 5,
+        "sha256": "5c6bc126795aae5feb0c2d739ed25d32dcb595df1baf6b23455ff3dfb5b752e9",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 17,
+        "question": 6,
+        "sha256": "7f2c602df320805acf6740b546b17cd553c7d3abea2394843315598e687e6d78",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 17,
+        "question": 7,
+        "sha256": "bb044ebb77336f308101840eb921a93188e85c1a7bee4351be8ae6b2d5e67ed7",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 17,
+        "question": 8,
+        "sha256": "92d0ec5a09a53d3296b820fd20570b113ff1515c7f39cfd53f626a951d9c3fa1",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 18,
+        "question": 1,
+        "sha256": "c4fc82de1d0c4759be35a0f76f18c65157cb2cd3bb3ec12b2555816408ed0ed4",
+        "similarity": 0.964,
+        "negationRetained": true
+      },
+      {
+        "lesson": 18,
+        "question": 2,
+        "sha256": "daacd3e746e223e62a84cac30afa9a5fbb26935058e61af4ae56ed0f6a0c1f82",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 18,
+        "question": 3,
+        "sha256": "bf58e923172f06a855e8037121a2445c570b422c89f7265559cca7917e4fcefd",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 18,
+        "question": 4,
+        "sha256": "17c4d01a8addbf5fdb08ec72022014d1a67c82bb3bbed1780e1f49251f3b2f10",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 18,
+        "question": 5,
+        "sha256": "59fa355f4df1d04efdb5d2dbb525999efcb16d2cacfac2a603f6be636c8c433d",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 18,
+        "question": 6,
+        "sha256": "b2ebb7a4f61a7065bee03589d4f8d486c5e25292be587304f63b60de310520e4",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 18,
+        "question": 7,
+        "sha256": "6b490ee671ec4d47af5eb8e9ddf0e6980207d3ca32e62d86876307d1c8c7eb06",
+        "similarity": 1.0,
+        "negationRetained": true
+      },
+      {
+        "lesson": 18,
+        "question": 8,
+        "sha256": "d67404261f98da2f5ff72a398dbddf6cfe17724308b7fef16e6e7ea95cb2af38",
+        "similarity": 0.875,
+        "negationRetained": true
+      }
+    ],
+    "listeningOnlyTranscriptCorrections": {
+      "7-1.mp3": "The recording pronounces 买一辆 rather than the shortened 买辆 in the original lesson. Only listening transcript updated; original lesson JSON unchanged."
+    }
+  },
+  "embeddedAudioHashesMatch": true,
+  "fullSourceTracksChecked": 72
+}

@@ -1,0 +1,23 @@
+NHATANH CHINESE — HSK 3
+
+CÁCH MỞ
+Mở file index.html bằng Chrome, Edge hoặc Safari.
+Giữ nguyên thư mục assets cạnh các file HTML để hiển thị ảnh và giao diện.
+Toàn bộ website dùng được offline, không cần cài đặt.
+
+NỘI DUNG
+18 bài học, 2177 câu hỏi gốc.
+Logo Nhật Anh, nền trang chủ riêng và 18 ảnh bài học riêng.
+Tìm kiếm bài học bằng tiếng Việt có/không dấu hoặc tiếng Trung.
+Lọc nhóm bài, lưu điểm cao nhất và bài đã khám phá trên cùng trình duyệt.
+Cài đặt pinyin và cỡ chữ trong trang bài học.
+Điểm lưu trên thiết bị/trình duyệt hiện tại. Câu trả lời chưa nộp không được lưu.
+
+THIẾT KẾ
+Áp dụng ui-ux-pro-max, lấy bố cục và tông xanh từ ảnh tham khảo.
+Kính mờ backdrop blur, nền làm mờ, thẻ bo tròn và hiệu ứng nhẹ.
+Tôn trọng tuỳ chọn giảm chuyển động của thiết bị.
+
+ẢNH
+Tạo bằng công cụ ImageGen tích hợp, 19 ảnh riêng; dùng bản WebP tối ưu.
+Mô tả tạo ảnh được lưu ở IMAGE_PROMPTS.md.

@@ -1,0 +1,20 @@
+HSK 3 — BÀI TẬP PASTEL CÓ PHẦN NGHE
+
+Mở index.html để chọn bài. Bộ bài hoạt động offline khi giữ đầy đủ thư mục assets đi kèm.
+
+Mỗi bài bổ sung 10 câu nghe, gồm 5 dạng × 2 câu:
+1. Nghe và chọn tranh.
+2. Nghe câu hỏi hoặc lời nói và chọn câu đáp phù hợp.
+3. Nghe và chọn phiên âm có dấu thanh.
+4. Nghe và chọn chữ Hán.
+5. Nghe hội thoại hoặc thông tin rồi trả lời câu hỏi.
+
+Bấm Phát hoặc dùng bộ điều khiển audio. Có thể nghe lại từ đầu và đổi tốc độ 0.75× / 1× / 1.25× / 1.5× / 2×.
+Chọn một đáp án cho mỗi câu. Sau khi nộp bài, có thể mở “Lời nghe, đáp án và giải thích”. Bấm “Làm lại bài này” để bắt đầu lại.
+
+Ẩn / Pinyin / Tất cả điều khiển phiên âm hỗ trợ. Đáp án pinyin của dạng 3 vẫn hiện khi chọn Ẩn. Dạng 4 giữ lựa chọn chỉ có chữ Hán trước khi nộp; pinyin hỗ trợ có trong lời giải sau khi nộp.
+
+Audio được trích từ bộ MP3 giáo trình NEW HSK3 3.0 do người dùng cung cấp. Tên file gốc được ghi tại mỗi câu. Mốc cắt và lời nghe nằm trong NGUON_AUDIO.json. Các đoạn ngắn được căn theo lời thoại, chỉnh theo khoảng lặng và kiểm tra lại bằng nhận dạng tiếng Trung offline.
+
+Giữ nguyên 2.177 câu bài tập cũ, dữ liệu kiến thức và các ảnh/giao diện pastel gốc. Thêm 180 câu nghe, tổng cộng 2.357 câu.
+DAP_AN_PHAN_NGHE.txt là bản đáp án để giáo viên đối chiếu.
